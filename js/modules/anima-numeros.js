@@ -1,4 +1,4 @@
-export default function initiAnimaNumeros () {
+export default function initAnimaNumeros () {
   function animaNumeros() {
     const numeros = document.querySelectorAll('[data-numero]')
     
